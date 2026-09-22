@@ -38,6 +38,4 @@ Al ejecutar las búsquedas con `grep` en el código fuente para las llamadas al 
 ## Parte D
 ![Captura de la Parte D](imgs/parteD.png)
 
-## Respuesta a la pregunta de reflexión
-[Escribe aquí tu respuesta a la pregunta de reflexión que te hace la guía del laboratorio. Por ejemplo: "Como se puede observar, cada comando básico de la terminal invoca internamente llamadas al sistema como open, read, write y close para poder interactuar con el hardware..."]
 
